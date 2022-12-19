@@ -1,5 +1,5 @@
 app:
-  version: dev
+  version: prod
 message: Spring Cloud Config Demo
 spring:
   rabbitmq:
